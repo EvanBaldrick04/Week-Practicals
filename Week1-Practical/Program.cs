@@ -1,7 +1,7 @@
 ﻿//firstTask();
 //secondTask();
 //thirdTask();
-fourthTask();
+//fourthTask();
 //fifthTask();
 
 void firstTask()
